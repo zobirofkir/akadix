@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+DE+Grund&family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+body{
+    font-family: "Playfair Display", serif;
+}
